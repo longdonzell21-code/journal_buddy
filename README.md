@@ -1,0 +1,2 @@
+# journal_buddy
+journal_buddy_openAI_demo
